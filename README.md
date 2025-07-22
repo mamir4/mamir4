@@ -4,9 +4,9 @@
 
 ## Projects
 
-![Lottery Game](https://mamir4.github.io/lottoaway/)
-![Background Changer](https://mamir4.github.io/bgChanger/)
-![Password Generator](https://mamir4.github.io/pwGenerator/)
+[Lottery Game](https://mamir4.github.io/lottoaway/)
+[Background Changer](https://mamir4.github.io/bgChanger/)
+[Password Generator](https://mamir4.github.io/pwGenerator/)
 
 ## Tech Stack
 
