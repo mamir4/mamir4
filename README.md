@@ -17,5 +17,5 @@
 ## Reach Me At
 
 - Email: malaekaamirq@hotmail.com
-- [LinkedIn](https://linkedin.com/in/malaekaamir)
+- [LinkedIn](https://linkedin.com/in/malaeka-amir)
 - [Personal Website](https://mamir4.github.io/) 
